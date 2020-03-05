@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">SankakuViewer</string>
+    <string name="app_verison">1.0.0</string>
+    <string name="button_login">Login</string>
+    <string name="password_hint">Password</string>
+    <string name="username_hint">Username</string>
+    <string name="imageView0">imageView0</string>
+    <string name="imageView1">imageView1</string>
+    <string name="imageView2">imageView2</string>
+    <string name="imageView3">imageView3</string>
+    <string name="imageView4">imageView4</string>
+    <string name="imageView5">imageView5</string>
+    <string name="imageView6">imageView6</string>
+    <string name="imageView7">imageView7</string>
+    <string name="imageView8">imageView8</string>
+    <string name="imageView9">imageView9</string>
+    <string name="Search_name">search</string>
+    <string name="menu_action_download">Download</string>
+    <string name="imagePreview">imagePreview</string>
+</resources>
